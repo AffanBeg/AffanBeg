@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Affan Beg</h1>
-<h3 align="center">A passionate CS student graduating in May 2024</h3>
+<h3 align="center">A passionate CS graduate</h3>
 
 - 🌱 I’m currently learning **AWS (Amazon Web Services)**
 
